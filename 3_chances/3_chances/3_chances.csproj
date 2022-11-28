@@ -1,0 +1,494 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{778608A1-3355-41A1-9D61-E6EBED63E3F3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>_3_chances</RootNamespace>
+    <AssemblyName>3_chances</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Tres+chances+logo ico.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySqlConnector, Version=2.0.0.0, Culture=neutral, PublicKeyToken=d33d3e53aa5f8c92, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySqlConnector.2.2.1\lib\net471\MySqlConnector.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.6.0.0\lib\net461\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Comidas_dificil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include=".Designer.cs">
+      <DependentUpon>Comidas_dificil.cs</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comidas_facil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comidas_facil.Designer.cs">
+      <DependentUpon>Comidas_facil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Comidas_Medio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comidas_Medio.Designer.cs">
+      <DependentUpon>Comidas_Medio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Comidas_seleção.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comidas_seleção.Designer.cs">
+      <DependentUpon>Comidas_seleção.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conexao_MySql.cs" />
+    <Compile Include="Configurações.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configurações.Designer.cs">
+      <DependentUpon>Configurações.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cores_dificil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cores_dificil.Designer.cs">
+      <DependentUpon>Cores_dificil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cores_facil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cores_facil.Designer.cs">
+      <DependentUpon>Cores_facil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cores_medio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cores_medio.Designer.cs">
+      <DependentUpon>Cores_medio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cores_seleção.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cores_seleção.Designer.cs">
+      <DependentUpon>Cores_seleção.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Desenhos_Dificil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desenhos_Dificil.Designer.cs">
+      <DependentUpon>Desenhos_Dificil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Desenhos_facil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desenhos_facil.Designer.cs">
+      <DependentUpon>Desenhos_facil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Desenhos_Medio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desenhos_Medio.Designer.cs">
+      <DependentUpon>Desenhos_Medio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Desenhos_selecao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desenhos_selecao.Designer.cs">
+      <DependentUpon>Desenhos_selecao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Esportes_dificil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Esportes_dificil.Designer.cs">
+      <DependentUpon>Esportes_dificil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Esportes_facil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Esportes_facil.Designer.cs">
+      <DependentUpon>Esportes_facil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Esportes_Medio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Esportes_Medio.Designer.cs">
+      <DependentUpon>Esportes_Medio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Esportes_selecao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Esportes_selecao.Designer.cs">
+      <DependentUpon>Esportes_selecao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Filmes_Dificil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filmes_Dificil.Designer.cs">
+      <DependentUpon>Filmes_Dificil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Filmes_facil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filmes_facil.Designer.cs">
+      <DependentUpon>Filmes_facil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Filmes_Medio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filmes_Medio.Designer.cs">
+      <DependentUpon>Filmes_Medio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fimes_selecao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fimes_selecao.Designer.cs">
+      <DependentUpon>Fimes_selecao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jogador.cs" />
+    <Compile Include="Jogos_dificil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jogos_dificil.Designer.cs">
+      <DependentUpon>Jogos_dificil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jogos_facil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jogos_facil.Designer.cs">
+      <DependentUpon>Jogos_facil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jogos_Medio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jogos_Medio.Designer.cs">
+      <DependentUpon>Jogos_Medio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jogos_selecao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jogos_selecao.Designer.cs">
+      <DependentUpon>Jogos_selecao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lugares_Dificil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lugares_Dificil.Designer.cs">
+      <DependentUpon>Lugares_Dificil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lugares_facil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lugares_facil.Designer.cs">
+      <DependentUpon>Lugares_facil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lugares_medio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lugares_medio.Designer.cs">
+      <DependentUpon>Lugares_medio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lugares_seleção.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lugares_seleção.Designer.cs">
+      <DependentUpon>Lugares_seleção.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Monstros_Dificil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Monstros_Dificil.Designer.cs">
+      <DependentUpon>Monstros_Dificil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Monstros_facil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Monstros_facil.Designer.cs">
+      <DependentUpon>Monstros_facil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Monstros_Medio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Monstros_Medio.Designer.cs">
+      <DependentUpon>Monstros_Medio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Monstros_selecao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Monstros_selecao.Designer.cs">
+      <DependentUpon>Monstros_selecao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profissoes_dificil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profissoes_dificil.Designer.cs">
+      <DependentUpon>Profissoes_dificil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profissoes_facil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profissoes_facil.Designer.cs">
+      <DependentUpon>Profissoes_facil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profissoes_Medio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profissoes_Medio.Designer.cs">
+      <DependentUpon>Profissoes_Medio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profissoes_selecao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profissoes_selecao.Designer.cs">
+      <DependentUpon>Profissoes_selecao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Regras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Regras.Designer.cs">
+      <DependentUpon>Regras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Seleção de jogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seleção de jogo.Designer.cs">
+      <DependentUpon>Seleção de jogo.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Comidas_dificil.resx">
+      <DependentUpon>Comidas_dificil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comidas_facil.resx">
+      <DependentUpon>Comidas_facil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comidas_Medio.resx">
+      <DependentUpon>Comidas_Medio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comidas_seleção.resx">
+      <DependentUpon>Comidas_seleção.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configurações.resx">
+      <DependentUpon>Configurações.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cores_dificil.resx">
+      <DependentUpon>Cores_dificil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cores_facil.resx">
+      <DependentUpon>Cores_facil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cores_medio.resx">
+      <DependentUpon>Cores_medio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cores_seleção.resx">
+      <DependentUpon>Cores_seleção.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desenhos_Dificil.resx">
+      <DependentUpon>Desenhos_Dificil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desenhos_facil.resx">
+      <DependentUpon>Desenhos_facil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desenhos_Medio.resx">
+      <DependentUpon>Desenhos_Medio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desenhos_selecao.resx">
+      <DependentUpon>Desenhos_selecao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Esportes_dificil.resx">
+      <DependentUpon>Esportes_dificil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Esportes_facil.resx">
+      <DependentUpon>Esportes_facil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Esportes_Medio.resx">
+      <DependentUpon>Esportes_Medio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Esportes_selecao.resx">
+      <DependentUpon>Esportes_selecao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Filmes_Dificil.resx">
+      <DependentUpon>Filmes_Dificil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Filmes_facil.resx">
+      <DependentUpon>Filmes_facil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Filmes_Medio.resx">
+      <DependentUpon>Filmes_Medio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fimes_selecao.resx">
+      <DependentUpon>Fimes_selecao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jogos_dificil.resx">
+      <DependentUpon>Jogos_dificil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jogos_facil.resx">
+      <DependentUpon>Jogos_facil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jogos_Medio.resx">
+      <DependentUpon>Jogos_Medio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jogos_selecao.resx">
+      <DependentUpon>Jogos_selecao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lugares_Dificil.resx">
+      <DependentUpon>Lugares_Dificil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lugares_facil.resx">
+      <DependentUpon>Lugares_facil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lugares_medio.resx">
+      <DependentUpon>Lugares_medio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lugares_seleção.resx">
+      <DependentUpon>Lugares_seleção.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Monstros_Dificil.resx">
+      <DependentUpon>Monstros_Dificil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Monstros_facil.resx">
+      <DependentUpon>Monstros_facil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Monstros_Medio.resx">
+      <DependentUpon>Monstros_Medio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Monstros_selecao.resx">
+      <DependentUpon>Monstros_selecao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profissoes_dificil.resx">
+      <DependentUpon>Profissoes_dificil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profissoes_facil.resx">
+      <DependentUpon>Profissoes_facil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profissoes_Medio.resx">
+      <DependentUpon>Profissoes_Medio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profissoes_selecao.resx">
+      <DependentUpon>Profissoes_selecao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Regras.resx">
+      <DependentUpon>Regras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seleção de jogo.resx">
+      <DependentUpon>Seleção de jogo.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coracao.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coracaoPartido.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coracao.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coracaoPartido.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tres_chances_vida.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comidas.png" />
+    <None Include="Resources\Lugares.png" />
+    <None Include="Resources\Principal.png" />
+    <None Include="Resources\tubarao de boas.png" />
+    <None Include="Resources\Jogos.png" />
+    <None Include="Resources\Monstros.png" />
+    <None Include="Resources\Esportes.png" />
+    <None Include="Resources\Cores.png" />
+    <None Include="Resources\Desenhos.png" />
+    <None Include="Resources\Filmes.png" />
+    <None Include="Resources\Profissoes.png" />
+    <Content Include="Tres+chances+logo ico.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

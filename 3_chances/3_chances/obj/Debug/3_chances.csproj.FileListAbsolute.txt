@@ -1,0 +1,496 @@
+C:\Users\aluno\Desktop\Três Chances\3_chances\3_chances\bin\Debug\3_chances.exe.config
+C:\Users\aluno\Desktop\Três Chances\3_chances\3_chances\bin\Debug\3_chances.exe
+C:\Users\aluno\Desktop\Três Chances\3_chances\3_chances\bin\Debug\3_chances.pdb
+C:\Users\aluno\Desktop\Três Chances\3_chances\3_chances\obj\Debug\3_chances.csprojAssemblyReference.cache
+C:\Users\aluno\Desktop\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.Comidas_facil.resources
+C:\Users\aluno\Desktop\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.Comidas_Medio.resources
+C:\Users\aluno\Desktop\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.Comidas_seleção.resources
+C:\Users\aluno\Desktop\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.Cores_dificil.resources
+C:\Users\aluno\Desktop\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.Cores_facil.resources
+C:\Users\aluno\Desktop\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.Cores_medio.resources
+C:\Users\aluno\Desktop\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.Cores_seleção.resources
+C:\Users\aluno\Desktop\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.Lugares_Dificil.resources
+C:\Users\aluno\Desktop\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.Lugares_facil.resources
+C:\Users\aluno\Desktop\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.Lugares_medio.resources
+C:\Users\aluno\Desktop\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.Lugares_seleção.resources
+C:\Users\aluno\Desktop\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.Properties.Resources.resources
+C:\Users\aluno\Desktop\Três Chances\3_chances\3_chances\obj\Debug\3_chances.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Três Chances\3_chances\3_chances\obj\Debug\3_chances.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Três Chances\3_chances\3_chances\obj\Debug\3_chances.exe
+C:\Users\aluno\Desktop\Três Chances\3_chances\3_chances\obj\Debug\3_chances.pdb
+C:\Users\aluno\Desktop\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmPrincipal.resources
+C:\Users\aluno\Desktop\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.Form1.resources
+C:\Users\aluno\Desktop\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmSelecaodejogo.resources
+C:\Users\aluno\Desktop\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmConfiguracoes.resources
+C:\Users\aluno\Desktop\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmRegras.resources
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\Três Chances\3_chances\3_chances\bin\Debug\3_chances.exe.config
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\Três Chances\3_chances\3_chances\bin\Debug\3_chances.exe
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\Três Chances\3_chances\3_chances\bin\Debug\3_chances.pdb
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\Três Chances\3_chances\3_chances\obj\Debug\3_chances.csproj.AssemblyReference.cache
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmConfiguracoes.resources
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmPrincipal.resources
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.Properties.Resources.resources
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmRegras.resources
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmSelecaodejogo.resources
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\Três Chances\3_chances\3_chances\obj\Debug\3_chances.csproj.GenerateResource.cache
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\Três Chances\3_chances\3_chances\obj\Debug\3_chances.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\Três Chances\3_chances\3_chances\obj\Debug\3_chances.exe
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\Três Chances\3_chances\3_chances\obj\Debug\3_chances.pdb
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_Dificil.resources
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_facil.resources
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_Medio.resources
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_seleção.resources
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_Dificil.resources
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_facil.resources
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_Medio.resources
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_seleção.resources
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_Dificil.resources
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_Facil.resources
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_Medio.resources
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_seleção.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\3_chances.exe.config
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\3_chances.exe
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\3_chances.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_Dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_seleção.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmConfiguracoes.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_Dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_seleção.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_Dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_Facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_seleção.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmPrincipal.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.Properties.Resources.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmRegras.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmSelecaodejogo.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.csproj.GenerateResource.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.csproj.CoreCompileInputs.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.exe
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.csproj.AssemblyReference.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\3_chances.exe.config
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\3_chances.exe
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\3_chances.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.csproj.AssemblyReference.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_Dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_seleção.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmConfiguracoes.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_Dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_seleção.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_Dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_Facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_seleção.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmPrincipal.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.Properties.Resources.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmRegras.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmSelecaodejogo.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.csproj.GenerateResource.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.csproj.CoreCompileInputs.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.exe
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_selecao.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_Dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_selecao.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_Dificil.resources
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\3_chances.exe.config
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\3_chances.exe
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\3_chances.pdb
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\MySqlConnector.dll
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Buffers.dll
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Memory.dll
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\MySqlConnector.xml
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Buffers.xml
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Memory.xml
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.csprojAssemblyReference.cache
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_Dificil.resources
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_facil.resources
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_Medio.resources
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_seleção.resources
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmConfiguracoes.resources
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_Dificil.resources
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_facil.resources
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_Medio.resources
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_seleção.resources
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_Dificil.resources
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_facil.resources
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_Medio.resources
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_selecao.resources
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_Dificil.resources
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_Facil.resources
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_Medio.resources
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_seleção.resources
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_Dificil.resources
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_facil.resources
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_Medio.resources
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_selecao.resources
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmPrincipal.resources
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.Properties.Resources.resources
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmRegras.resources
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmSelecaodejogo.resources
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.csproj.CopyComplete
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.exe
+C:\Users\aluno\Desktop\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.pdb
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\3_chances.exe.config
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\3_chances.exe
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\3_chances.pdb
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\MySqlConnector.dll
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Buffers.dll
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Memory.dll
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Numerics.Vectors.dll
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\MySqlConnector.xml
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Buffers.xml
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Memory.xml
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Numerics.Vectors.xml
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.csprojAssemblyReference.cache
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_Dificil.resources
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_facil.resources
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_Medio.resources
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_seleção.resources
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmConfiguracoes.resources
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_Dificil.resources
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_facil.resources
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_Medio.resources
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_seleção.resources
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_Dificil.resources
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_facil.resources
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_Medio.resources
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_selecao.resources
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_Dificil.resources
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_Facil.resources
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_Medio.resources
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_seleção.resources
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_Dificil.resources
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_facil.resources
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_Medio.resources
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_selecao.resources
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmPrincipal.resources
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.Properties.Resources.resources
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmRegras.resources
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmSelecaodejogo.resources
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.csproj.GenerateResource.cache
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.csproj.CoreCompileInputs.cache
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.csproj.CopyComplete
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.exe
+D:\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\3_chances.exe.config
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\3_chances.exe
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\3_chances.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\MySqlConnector.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Buffers.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Memory.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\MySqlConnector.xml
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Buffers.xml
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Memory.xml
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.csproj.AssemblyReference.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_Dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_seleção.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmConfiguracoes.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_Dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_seleção.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_Dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_selecao.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_Dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_Facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_seleção.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_Dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_selecao.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmPrincipal.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.Properties.Resources.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmRegras.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmSelecaodejogo.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.csproj.GenerateResource.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.csproj.CoreCompileInputs.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.csproj.CopyComplete
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.exe
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Fimes_selecao.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Filmes_facil.resources
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\3_chances.exe.config
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\3_chances.exe
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\3_chances.pdb
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\MySqlConnector.dll
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Buffers.dll
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Memory.dll
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Numerics.Vectors.dll
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\MySqlConnector.xml
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Buffers.xml
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Memory.xml
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Numerics.Vectors.xml
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.csprojAssemblyReference.cache
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_Dificil.resources
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_facil.resources
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_Medio.resources
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_seleção.resources
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmConfiguracoes.resources
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_Dificil.resources
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_facil.resources
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_Medio.resources
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_seleção.resources
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_Dificil.resources
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_facil.resources
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_Medio.resources
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_selecao.resources
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Filmes_facil.resources
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Fimes_selecao.resources
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_Dificil.resources
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_Facil.resources
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_Medio.resources
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_seleção.resources
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_Dificil.resources
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_facil.resources
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_Medio.resources
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_selecao.resources
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmPrincipal.resources
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.Properties.Resources.resources
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmRegras.resources
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\_3_chances.frmSelecaodejogo.resources
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.csproj.GenerateResource.cache
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.csproj.CoreCompileInputs.cache
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.csproj.CopyComplete
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.exe
+D:\blabla\conexão + final\Três Chances_Desenhos_mostros\Três Chances_todas_palavras\Três Chances\Três Chances\3_chances\3_chances\obj\Debug\3_chances.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\bin\Debug\3_chances.exe.config
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\bin\Debug\3_chances.exe
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\bin\Debug\3_chances.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\bin\Debug\MySqlConnector.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\bin\Debug\System.Buffers.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\bin\Debug\System.Memory.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\bin\Debug\MySqlConnector.xml
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\bin\Debug\System.Buffers.xml
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\bin\Debug\System.Memory.xml
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\3_chances.csproj.AssemblyReference.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_Dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_seleção.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frmConfiguracoes.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_Dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_seleção.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_Dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_selecao.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Filmes_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Fimes_selecao.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_Dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_Facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_seleção.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_Dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_selecao.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frmPrincipal.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.Properties.Resources.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frmRegras.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frmSelecaodejogo.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\3_chances.csproj.GenerateResource.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\3_chances.csproj.CoreCompileInputs.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\3_chances.csproj.CopyComplete
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\3_chances.exe
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\3_chances.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Filmes_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Filmes_Dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Profissoes_selecao.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Profissoes_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Profissoes_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Profissoes_dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Esportes_selecao.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Esportes_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Esportes_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Esportes_dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Jogos_selecao.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Jogos_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Jogos_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Editando Jogo\3_chances\3_chances\obj\Debug\_3_chances.frm_Jogos_dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\bin\Debug\3_chances.exe.config
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\bin\Debug\3_chances.exe
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\bin\Debug\3_chances.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\bin\Debug\MySqlConnector.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\bin\Debug\System.Buffers.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\bin\Debug\System.Memory.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\bin\Debug\MySqlConnector.xml
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\bin\Debug\System.Buffers.xml
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\bin\Debug\System.Memory.xml
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\3_chances.csproj.AssemblyReference.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_Dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_seleção.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frmConfiguracoes.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_Dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_seleção.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_Dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_selecao.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Esportes_dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Esportes_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Esportes_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Esportes_selecao.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Filmes_Dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Filmes_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Filmes_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Fimes_selecao.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Jogos_dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Jogos_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Jogos_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Jogos_selecao.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_Dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_Facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_seleção.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_Dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_selecao.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frmPrincipal.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Profissoes_dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Profissoes_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Profissoes_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Profissoes_selecao.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.Properties.Resources.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frmRegras.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frmSelecaodejogo.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\3_chances.csproj.GenerateResource.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\3_chances.csproj.CoreCompileInputs.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\3_chances.csproj.CopyComplete
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\3_chances.exe
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\Todos formularios\3_chances\3_chances\obj\Debug\3_chances.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\bin\Debug\3_chances.exe.config
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\bin\Debug\3_chances.exe
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\bin\Debug\3_chances.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\bin\Debug\MySqlConnector.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\bin\Debug\System.Buffers.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\bin\Debug\System.Memory.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\bin\Debug\MySqlConnector.xml
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\bin\Debug\System.Buffers.xml
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\bin\Debug\System.Memory.xml
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\3_chances.csproj.AssemblyReference.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_Dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Comidas_seleção.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frmConfiguracoes.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_Dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Cores_seleção.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_Dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Desenhos_selecao.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Esportes_dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Esportes_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Esportes_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Esportes_selecao.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Filmes_Dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Filmes_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Filmes_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Fimes_selecao.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Jogos_dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Jogos_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Jogos_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Jogos_selecao.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_Dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_Facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Lugares_seleção.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_Dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Monstros_selecao.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frmPrincipal.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Profissoes_dificil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Profissoes_facil.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Profissoes_Medio.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frm_Profissoes_selecao.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.Properties.Resources.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frmRegras.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\_3_chances.frmSelecaodejogo.resources
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\3_chances.csproj.GenerateResource.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\3_chances.csproj.CoreCompileInputs.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\3_chances.csproj.CopyComplete
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\3_chances.exe
+C:\Users\ggina\OneDrive\Área de Trabalho\Todos formularios\3_chances\3_chances\obj\Debug\3_chances.pdb
